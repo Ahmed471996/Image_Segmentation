@@ -15,9 +15,11 @@ UNET is an architecture developed by Olaf Ronneberger et al. for Biomedical Imag
 
 ## Training  
 
-the main parameters 
+the main parameters:
 
 ENDCODER = 'timm-efficientnet-b0'   # encoder of the efficientnet
+
+
 WEIGHTS = 'imagenet'                # weights of imagenet
 
 num_epochs = 25
