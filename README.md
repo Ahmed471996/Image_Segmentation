@@ -1,5 +1,8 @@
 # Image_Segmentation
 
+![image](https://user-images.githubusercontent.com/101316217/209589527-dc432ac2-3fe9-4547-95a4-0bdd4e47fdda.png)
+
+
 ## What Is Image Segmentation?
 Image segmentation is a method of dividing a digital image into subgroups called image segments, reducing the complexity of the image and enabling further processing or analysis of each image segment. Technically, segmentation is the assignment of labels to pixels to identify objects, people, or other important elements in the image. 
 
@@ -27,6 +30,10 @@ num_epochs = 25
 ## Results 
 
 train_loss : 0.09031671633323034 valid_loss : 0.16858898475766182
+
+
+![image](https://user-images.githubusercontent.com/101316217/209589509-6e41232b-c5fe-421b-b2cf-d941de506536.png)
+
 
 ## Datasets sources 
 
